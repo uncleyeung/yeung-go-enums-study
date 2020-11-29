@@ -4,8 +4,8 @@ package main
 import (
 	"encoding/json"
 	"fmt"
-	"uncle.yeung.com/enums/bo"
-	"uncle.yeung.com/enums/enum"
+	"github.com/uncleyeung/enums/bo"
+	"github.com/uncleyeung/enums/enum"
 )
 
 func main() {

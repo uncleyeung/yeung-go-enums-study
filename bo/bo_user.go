@@ -2,8 +2,8 @@ package bo
 
 import (
 	"fmt"
-	"uncle.yeung.com/enums/bo/base"
-	"uncle.yeung.com/enums/enum"
+	"github.com/uncleyeung/enums/bo/base"
+	"github.com/uncleyeung/enums/enum"
 )
 
 type User struct {

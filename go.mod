@@ -1,3 +1,3 @@
-module uncle.yeung.com/enums
+module github.com/uncleyeung/enums
 
 go 1.15
